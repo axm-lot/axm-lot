@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying in ENI Fianarantsoa, in fourth year of General Informatics. <br> 
 - 👯 I’m looking to collaborate on Open-source project. <br>
 - 📫 How to reach me:  <a href="mailto:charlotaxm@gmail.com">charlotaxm@gmail.com</a> <br>
-- Techno enthusiast in <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="20" height="20">, NodeJs, Java ☕, PHP, ReactJs, MongoDB 🍃, PostgreSQL, Firebase 🔥, Git 🐙
+- Techno enthusiast in Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" height="20">, NodeJs, Java ☕, PHP, ReactJs, MongoDB 🍃, PostgreSQL, Firebase 🔥, Git 🐙
 </p>
 <!--
 **axm-lot/axm-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
