@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 </h1>
 <p align="left">
-- 🌱 I’m currently studying in ENI Fianarantsoa, in fourth year of General Informatics.
-- 👯 I’m looking to collaborate on Open-source project.
-- 📫 How to reach me:
-  [charlotaxm@gmail.com](https://)
-
+- 🌱 I’m currently studying in ENI Fianarantsoa, in fourth year of General Informatics. <br> 
+- 👯 I’m looking to collaborate on Open-source project. <br>
+- 📫 How to reach me: 
+  [charlotaxm@gmail.com](https://) 
+<br>
 - Techno enthusiast in Python 🐍, NodeJs, Java ☕️, PHP, ReactJs, MongoDB 🍃, PostgreSQL, Firebase 🔥, Git 🐙
 </p>
 <!--
