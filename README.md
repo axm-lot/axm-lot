@@ -1,11 +1,12 @@
-## Hi there 👋
 <h1 align="center">Hi there 👋 </h1>
+<p align="left">
 - 🌱 I’m currently studying in ENI Fianarantsoa, in fourth year of General Informatics.
 - 👯 I’m looking to collaborate on Open-source project.
 - 📫 How to reach me:
   [charlotaxm@gmail.com](https://)
 
 - Techno enthusiast in Python 🐍, NodeJs, Java ☕️, PHP, ReactJs, MongoDB 🍃, PostgreSQL, Firebase 🔥, Git 🐙
+</p>
 <!--
 **axm-lot/axm-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
